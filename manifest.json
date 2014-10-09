@@ -1,0 +1,10 @@
+{
+    "name": "Kitten Storm",
+    "version": "0.2",
+    "description": "Fixes a bug in the internet where photos of things other than kittens appear on some websites.",
+  	"manifest_version": 2,
+    "content_scripts": [{
+        "matches": ["http://*/*"],
+        "js": ["jquery-1.9.1.min.js","kittenstorm.js"]
+    }]
+}
