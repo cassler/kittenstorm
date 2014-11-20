@@ -1,5 +1,5 @@
 # KittenStorm 0.2
-KittenStorm is a simple Chrome Extension that will replace images on the webpage with images of adorably, cuddly kittens with a single keypress. 
+KittenStorm is a simple Chrome Extension that will resolves a widely reported bug where certain images on the internet would appear to be of something other than cats. This replace all images on the webpage with ones of adorably, cuddly kittens. All with a single keypress. 
 
 ### Instructions
 1. Clone to desktop
